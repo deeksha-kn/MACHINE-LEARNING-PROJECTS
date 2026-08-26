@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
+=======
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+>>>>>>> 8d226010088dda1a1307632b3f5d859148d02c7c
